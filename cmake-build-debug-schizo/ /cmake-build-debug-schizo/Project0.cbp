@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/c/cy255/ /cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/c/cy255/ /cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/c/cy255/ /cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project0">
+				<Option output="/users/guest/c/cy255/ /cmake-build-debug-schizo/Project0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/c/cy255/ /cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/guest/c/cy255/ /."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 Project0"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project0/fast">
+				<Option output="/users/guest/c/cy255/ /cmake-build-debug-schizo/Project0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/c/cy255/ /cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/guest/c/cy255/ /."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 Project0/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/c/cy255/\ /cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/c/cy255/ /Book.cpp">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Book.h">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /BookCreator.cpp">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /BookCreator.h">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /BookListCreator.cpp">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /BookListCreator.h">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Info.cpp">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Info.h">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/answer0.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/answer1.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/answer2.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/answer3.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/answer4.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/answer5.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/input0.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/input1.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/input2.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/input3.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/input4.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Lab0PassOffCases/input5.txt">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Library.cpp">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /Library.h">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /README.md">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /main.cpp">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /makefile_0">
+			<Option target="Project0"/>
+		</Unit>
+		<Unit filename="/users/guest/c/cy255/ /CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
